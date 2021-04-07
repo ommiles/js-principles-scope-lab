@@ -1,4 +1,3 @@
-var bestCustomer
 var customerName = `bob`
 const leastFavoriteCustomer = `Horrible Person`
 
